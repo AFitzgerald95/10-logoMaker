@@ -32,4 +32,6 @@
 
   Github: [AFitzgerald95](https://github.com/AFitzgerald95)
 
-  Email: [austi.fitzgerald702@gmail.com](mailto:austi.fitzgerald702@gmail.com)
+  Email: [austi.fitzgerald702@gmail.com](mailto:austin.fitzgerald702@gmail.com)
+
+  You can view a demo of the application [Here](https://drive.google.com/file/d/1LMaQkBynUOqTrF6wHO7MY67A3zF_nvyE/view?usp=sharing)
